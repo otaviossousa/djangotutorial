@@ -9,7 +9,7 @@ Este projeto foi criado seguindo as etapas do tutorial do Django Girls. Ele ensi
 Este é um site de blog simples criado como parte do tutorial do Django Girls. Ele inclui funcionalidades como a criação, edição e visualização de postagens, oferecendo uma excelente introdução aos fundamentos do Django.
 
 ## 📝 Anotações Notion
-As anotações e tratamentos de erros que podem aparecer durante o desenvolvimento deste projeto podem ser encontrados no Notion: [Link para o Notion]([https://](https://nettle-fontina-e72.notion.site/Django-Girls-2024-1355a694d38e8085a843d4d58efa9ae3))
+As anotações e tratamentos de erros que podem aparecer durante o desenvolvimento(deploy) deste projeto podem ser encontrados no Notion: [Link para o Notion](https://nettle-fontina-e72.notion.site/Django-Girls-2024-1355a694d38e8085a843d4d58efa9ae3)
 
 ## 🚀 Funcionalidades
 - Adicionar e editar postagens.
@@ -36,4 +36,4 @@ As anotações e tratamentos de erros que podem aparecer durante o desenvolvimen
   python manage.py migrate
   python manage.py runserver
   ```
-5. Acesse o projeto: Abra seu navegador e vá para http://127.0.0.1:8000/.
+5. Acesse o projeto: Abra seu navegador e vá para http://127.0.0.1:8000/
